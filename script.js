@@ -80,7 +80,6 @@ function getMenoresDe(edad) {
     console.log(`El numero en el indice ${indice} es : ${n}`);
     return n + 1
   })
-
   console.log(res) // [2,3]
 })()
 
